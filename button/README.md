@@ -1,6 +1,9 @@
 
 ## Note
 
+Press button: LED on  
+Release button: LED off
+
 ---
 
 Circuit image when using pull-up resistors
