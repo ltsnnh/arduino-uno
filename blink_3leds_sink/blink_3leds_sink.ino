@@ -1,7 +1,7 @@
 /*
  * NOTE: millis() function returns number of milliseconds passed since the program started
  * This number will overflow (go back to zero), after approximately 50 days
- * when it comes, LED capably will take longer than 1s (interval) to change its state, due to arithmetic limit 
+ * When it comes, LED capably will take longer than 1s (interval) to change its state, due to arithmetic limit 
 */
 
 #define LED1 8
